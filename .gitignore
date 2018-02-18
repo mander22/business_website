@@ -1,3 +1,13 @@
+# Custom
+deployment.txt
+init_db.sh
+notes.txt
+password.txt
+.idea
+
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
